@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.liangyang.photopicker.MainActivity">
+
+    <Button
+        android:id="@+id/single_chose_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="单选"
+        />
+
+    <Button
+        android:id="@+id/multiple_chose_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="多选"
+        android:layout_below="@id/single_chose_btn"/>
+
+    <Button
+        android:id="@+id/open_camera_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/multiple_chose_btn"
+        android:text="拍照"/>
+
+    <!--android:horizontalSpacing="@dimen/space_size"水平间距2dp
+        android:verticalSpacing="@dimen/space_size"垂直间距2dp-->
+    <GridView
+        android:id="@+id/gridView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/open_camera_btn"
+        android:horizontalSpacing="@dimen/space_size"
+        android:verticalSpacing="@dimen/space_size" />
+
+</RelativeLayout>
