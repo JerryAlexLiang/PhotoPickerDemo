@@ -17,7 +17,7 @@ import uk.co.senab.photoview.PhotoView;
 import uk.co.senab.photoview.PhotoViewAttacher;
 
 /**
- * Created by donglua on 15/6/21.
+ * @author JerryAlexLiang
  */
 public class PhotoPagerAdapter extends PagerAdapter {
 

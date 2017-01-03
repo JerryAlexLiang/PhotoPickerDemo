@@ -17,7 +17,7 @@ import com.foamtrace.photopicker.widget.ViewPagerFixed;
 import java.util.ArrayList;
 
 /**
- * Created by foamtrace on 2015/8/25.
+ * @author JerryAlexLiang
  */
 public class PhotoPreviewActivity extends AppCompatActivity implements PhotoPagerAdapter.PhotoViewClickListener{
 

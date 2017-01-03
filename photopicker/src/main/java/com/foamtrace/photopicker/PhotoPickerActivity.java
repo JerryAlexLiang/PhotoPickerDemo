@@ -31,6 +31,9 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * @author JerryAlexLiang
+ */
 public class PhotoPickerActivity extends AppCompatActivity{
 
     public static final String TAG = PhotoPickerActivity.class.getName();

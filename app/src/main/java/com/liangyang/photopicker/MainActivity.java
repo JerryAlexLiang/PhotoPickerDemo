@@ -28,6 +28,10 @@ import java.io.File;
 import java.io.IOException;
 import java.util.ArrayList;
 
+/**
+ * 图片选择库
+ * @author JerryAlexLiang
+ */
 public class MainActivity extends AppCompatActivity {
 
     private Button btnMuilt; // 多选

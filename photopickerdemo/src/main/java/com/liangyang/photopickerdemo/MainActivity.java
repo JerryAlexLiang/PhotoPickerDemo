@@ -30,6 +30,7 @@ import java.util.ArrayList;
 
 /**
  * 图库选择器--DemoTest
+ * @author JerryAlexLiang
  */
 public class MainActivity extends AppCompatActivity {
 

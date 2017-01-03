@@ -11,7 +11,7 @@ import java.util.ArrayList;
 
 /**
  * 选择照片
- * Created by foamtrace on 2015/8/25.
+ * @author JerryAlexLiang
  */
 public class PhotoPickerIntent extends Intent{
 

@@ -2,7 +2,7 @@ package com.foamtrace.photopicker;
 
 /**
  * 照片选择类型
- * Created by foamtrace on 2015/8/25.
+ * @author JerryAlexLiang
  */
 public enum SelectModel {
     SINGLE(PhotoPickerActivity.MODE_SINGLE),

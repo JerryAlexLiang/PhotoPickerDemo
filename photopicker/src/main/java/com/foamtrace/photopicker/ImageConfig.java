@@ -6,7 +6,7 @@ import android.os.Parcelable;
 /**
  * 读取手机照片的限制参数
  * 属性参考：http://www.cnblogs.com/over140/archive/2012/08/29/2661752.html
- * Created by foamtrace on 2015/8/26.
+ * @author JerryAlexLiang
  */
 public class ImageConfig implements Parcelable {
 

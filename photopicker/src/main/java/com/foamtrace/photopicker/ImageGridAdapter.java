@@ -16,7 +16,7 @@ import java.util.List;
 
 /**
  * ͼƬAdapter
- * Created by Nereo on 2015/4/7.
+ * @author JerryAlexLiang
  */
 public class ImageGridAdapter extends BaseAdapter {
 

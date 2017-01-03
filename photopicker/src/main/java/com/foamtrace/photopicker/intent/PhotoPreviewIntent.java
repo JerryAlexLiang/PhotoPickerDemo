@@ -10,7 +10,7 @@ import java.util.ArrayList;
 
 /**
  * 预览照片
- * Created by foamtrace on 2015/8/25.
+ * @author JerryAlexLiang
  */
 public class PhotoPreviewIntent extends Intent{
 

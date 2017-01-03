@@ -7,6 +7,7 @@ import android.view.MotionEvent;
 
 /**
  * 修复图片在ViewPager控件中缩放报错的BUG
+ * @author JerryAlexLiang
  */
 public class ViewPagerFixed extends ViewPager {
 
